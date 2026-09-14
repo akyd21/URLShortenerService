@@ -33,7 +33,7 @@ The default database settings are in `src/main/resources/application.properties`
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/urlshortener
 spring.datasource.username=root
-spring.datasource.password=1234
+spring.datasource.password=
 ```
 
 Update the username and password if your local MySQL installation uses different credentials.
